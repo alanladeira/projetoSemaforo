@@ -1,0 +1,10 @@
+.semaforo{
+    width: 220px;
+    height: 400px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    border-radius: 7px;
+}
